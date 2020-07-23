@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1595270885,
+	"version": 1595526037,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -81,6 +81,7 @@
 		"images/button_reshuffle-sheet0.png",
 		"images/button_back-sheet0.png",
 		"images/button_roll2-sheet0.png",
+		"images/windowssize-sheet0.png",
 		"media/rolldice.m4a",
 		"media/rolldice.ogg",
 		"media/click.m4a",

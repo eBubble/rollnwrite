@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1595270885
+#1595526037
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -80,6 +80,7 @@ images/button_next-sheet1.png
 images/button_reshuffle-sheet0.png
 images/button_back-sheet0.png
 images/button_roll2-sheet0.png
+images/windowssize-sheet0.png
 media/rolldice.m4a
 media/rolldice.ogg
 media/click.m4a
