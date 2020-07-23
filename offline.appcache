@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1595526037
+#1595533873
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -38,7 +38,7 @@ images/lockb-sheet0.png
 images/background_main.png
 images/button_clever-sheet0.png
 images/button_cart-sheet0.png
-images/button_clever2-sheet0.png
+images/button_new-sheet0.png
 images/button_railroad-sheet0.png
 images/button_welcome1-sheet0.png
 images/button_welcome2-sheet0.png
@@ -70,7 +70,7 @@ images/c_skill_3-sheet0.png
 images/c_button_skills-sheet0.png
 images/c_button_skills-sheet1.png
 images/c_ruins_check-sheet0.png
-images/button_roll-sheet0.png
+images/button_r_roll-sheet0.png
 images/r_back-sheet0.png
 images/r_menu-sheet0.png
 images/railroad_background-sheet0.png
@@ -79,8 +79,10 @@ images/button_next-sheet0.png
 images/button_next-sheet1.png
 images/button_reshuffle-sheet0.png
 images/button_back-sheet0.png
-images/button_roll2-sheet0.png
+images/button_clev_roll-sheet0.png
 images/windowssize-sheet0.png
+images/clev_check-sheet0.png
+images/clev_check-sheet1.png
 media/rolldice.m4a
 media/rolldice.ogg
 media/click.m4a
