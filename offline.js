@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1595783815,
+	"version": 1595784965,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -105,6 +105,7 @@
 		"images/railroad_background-sheet0.png",
 		"images/button_clev_roll-sheet0.png",
 		"images/windowssize-sheet0.png",
+		"images/button_start2-sheet0.png",
 		"images/button_next2-sheet0.png",
 		"media/rolldice.m4a",
 		"media/rolldice.ogg",
