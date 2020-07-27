@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1595784965,
+	"version": 1595882156,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,8 @@
 		"images/button_proj1-sheet0.png",
 		"images/welcome2_deck1-sheet0.png",
 		"images/welcome2_deck1-sheet1.png",
+		"images/welcome2_deck1-sheet2.png",
+		"images/welcome2_deck2-sheet0.png",
 		"images/welcome2_projects1-sheet0.png",
 		"images/welcome2_projects2-sheet0.png",
 		"images/welcome2_projects3-sheet0.png",
@@ -107,6 +109,7 @@
 		"images/windowssize-sheet0.png",
 		"images/button_start2-sheet0.png",
 		"images/button_next2-sheet0.png",
+		"images/w2_back-sheet0.png",
 		"media/rolldice.m4a",
 		"media/rolldice.ogg",
 		"media/click.m4a",
